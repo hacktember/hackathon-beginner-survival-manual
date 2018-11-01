@@ -8,10 +8,10 @@ Here are some links to give you a starting point (inspired by the Awesome lists,
 Starting to learn a programming language?  Here's a list of FREE resources!
 #### Python
 Very popular for web development, data science, and everything between!  
-- [Real Python Tutorials] (https://realpython.com/)
+- [Real Python Tutorials](https://realpython.com/)
 - [A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
-- [A curated list of awesome Django apps, projects and resources] (https://github.com/rosarior/awesome-django)
-- [A curated list of awesome Flask resources and plugins] (https://github.com/humiaozuzu/awesome-flask)
+- [A curated list of awesome Django apps, projects and resources](https://github.com/rosarior/awesome-django)
+- [A curated list of awesome Flask resources and plugins](https://github.com/humiaozuzu/awesome-flask)
 #### PHP
 For better or for worse, still the king of websites (by market share)  
 - [PHP Tutorial](https://www.tutorialspoint.com/php/) - from TutorialsPoint; should cover basics but may omit the newest language features
