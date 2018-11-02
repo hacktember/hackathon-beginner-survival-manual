@@ -23,21 +23,6 @@ Readable, fast, and simple. Go is powering the massive backend systems used by T
 - [Installing and getting started with Go](https://golang.org/doc/)
 - [Go by example](https://gobyexample.com/)
 - [Go tour](https://tour.golang.org/welcome/1)
-#### Java
-Runs on literally BILLIONS of devices. Most popular for server side and Android development.
-#### JavaScript
-Longtime browser champ, up and coming for server and mobile development!
-#### Swift
-The lang! The myth! The legend! iOS extraordinaire with excellent syntax.
-#### C#
-Blazing fast and versatile, this is a popular language for Windows, cross-platform mobile, and cloud.
-
-## Website Tools
-Just want to build a great website with little or no code?
-#### WordPress
-Best for tighter budgets and/or deeper information architecture
-#### Squarespace
-A very easy and elegant solution for low maintenance and for sites that only need a shallow information architecture
 
 ## Data Science, Machine Learning, AI and Data
 Want to build an amazing chatbot, a predictive model, or create some amazing data visualizations?
@@ -51,17 +36,16 @@ Great for building ML/AI models (e.g., for chatbots or classifiers)
 - [dashing](https://github.com/Shopify/dashing)
 
 ## Demo from your computer
-Need make your work on your computer accessible to others?
+Need make your work on your computer accessible to a web service others?
+- [Ngrok](https://ngrok.com/)
 
-## Quality Hosting on a Budget
-#### Digital Ocean
-#### Amazon Lightsail
+## Website solutions
+- [Squarespace](https://www.squarespace.com/)
+
+## Quality Hosting
+- [Digital Ocean - The Simplest Cloud starting at $5/mo](https://www.digitalocean.com/)
+- [Amazon Lightsail - Servers starting at $3.50/mo](https://aws.amazon.com/lightsail/)
+- [Flywheel - Managed WordPress hosting starting at $14/mo](https://getflywheel.com/)
 
 ## Mobile Backend as a Service (MBaaS)
-#### Firebase
-#### Parse
-
-## Serverless
-#### AWS Lambda
-#### Azure Functions
-#### OpenFaaS
+- [Firebase - pay-as-you-go backend](https://firebase.google.com/)
