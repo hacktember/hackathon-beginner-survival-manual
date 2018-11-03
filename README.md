@@ -46,6 +46,7 @@ Need make your web project on your computer accessible to a web service or to ot
 This open source Content Management System powers about 25% of the web now! If you can't beat 'em, perhaps you should join them...
 - [WPBeginner - Beginner's guide for WordPress](https://www.wpbeginner.com/)
 - [Getting Started - Wordpress Codex](https://codex.wordpress.org/Getting_Started_with_WordPress)
+- [Gutenberg Handbook](https://wordpress.org/gutenberg/handbook/)
 
 ## Quality Hosting
 - [Digital Ocean - The Simplest Cloud starting at $5/mo](https://www.digitalocean.com/)
