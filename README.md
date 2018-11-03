@@ -36,11 +36,16 @@ Great for building ML/AI models (e.g., for chatbots or classifiers)
 - [dashing](https://github.com/Shopify/dashing)
 
 ## Demo from your computer
-Need make your work on your computer accessible to a web service others?
+Need make your web project on your computer accessible to a web service or to other people?
 - [Ngrok](https://ngrok.com/)
 
-## Website solutions
+## In-browser Website Creator
 - [Squarespace](https://www.squarespace.com/)
+
+## WordPress
+This open source Content Management System powers about 25% of the web now! If you can't beat 'em, perhaps you should join them...
+- [WPBeginner - Beginner's guide for WordPress](https://www.wpbeginner.com/)
+- [Getting Started - Wordpress Codex](https://codex.wordpress.org/Getting_Started_with_WordPress)
 
 ## Quality Hosting
 - [Digital Ocean - The Simplest Cloud starting at $5/mo](https://www.digitalocean.com/)
